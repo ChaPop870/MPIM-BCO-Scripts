@@ -216,6 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
 /1985-2024 - Daily Rainfall.csv
 /1985-2024 - Daily Tmax (matching stations).csv
 /1985-2024 - Daily Tmean.csv
@@ -233,3 +235,6 @@ __marimo__/
 /BCO_vs_CIMH_vs_GAIA_scatter_density_alpha.png
 /Data Agreement form for Academic Purposes.pdf
 /new.txt
+
+# Ignore all JetBrains IDE config
+.idea/
